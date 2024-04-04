@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saishf&label=Profile%20views&color=0e75b6&style=flat" alt="saishf" /> </p>
 
 
-- 🔭 I’m currently working on **NewsApp Using React**
+- 🔭 I’m currently working on **INotebook Using React**
 
 - 🌱 I’m currently learning **React**
 
